@@ -1,0 +1,7 @@
+{
+  "name": "ion-react-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
